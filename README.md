@@ -1,14 +1,12 @@
-## Python Interview Problem Solving
+## Python Problem Solving
 
-This repository contains Python logic and DSA problems
-commonly asked in fresher and 3–5 LPA interviews.
+This repository contains Python logic problems.
 
 Topics Covered:
 - Strings
 - Numbers
 - Lists
 - Dictionaries
-- Basic DSA
 
 Each problem includes:
 - Clear explanation
